@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "929791398540",
+    "firebase_url": "https://socialnetworkingapp-7c3b5.firebaseio.com",
+    "project_id": "socialnetworkingapp-7c3b5",
+    "storage_bucket": "socialnetworkingapp-7c3b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929791398540:android:c2b99188d2ea1b08",
+        "android_client_info": {
+          "package_name": "com.example.rabby.socialnetworkingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929791398540-fiopr6jb7ga4oj9omegubjbhklim8fia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rabby.socialnetworkingapp",
+            "certificate_hash": "8cd0bd2047acd8c05431c7ddba6dfb2943d024da"
+          }
+        },
+        {
+          "client_id": "929791398540-ncb782cn42omuqi26kj166s58g1t1b06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaRF_88_bEna5ZD5QENU2PS-n2Iy92M0c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929791398540-ncb782cn42omuqi26kj166s58g1t1b06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
